@@ -11,4 +11,4 @@ This report provides a comparison between Principal Component Analysis (PCA) and
  design and train a DAE (Denoising Autoencoder) and to compare
  its performance with PCA.
 
- Remark! To run the code you should download chestmnist dataset online
+ *Remark!* To run the code you should download chestmnist dataset online
