@@ -1,7 +1,5 @@
 # PCA and autoencoders: a comparison on image denoising
-This report provides a comparison between Prin
-cipal Component Analysis (PCA) and autoencoders. Both tech
-niques are used for dimensionality reduction, i.e. the process of
+This report provides a comparison between Principal Component Analysis (PCA) and autoencoders. Both techniques are used for dimensionality reduction, i.e. the process of
  reducing the number of features in a dataset while preserving
  as much information as possible. PCA is a linear method that
  identifies the directions of maximum variance in the data, while
